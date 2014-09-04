@@ -1,5 +1,7 @@
 {
 	"name": "atomita/codeigniter-utils",
+	"keywords": ["codeigniter"],
+	"license": "LGPLv3",
 	"authors": [
 		{
 			"name": "atomita"
