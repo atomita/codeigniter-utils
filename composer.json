@@ -1,12 +1,12 @@
 {
-    "name": "atomita/codeigniter-utils",
-    "authors": [
-        {
-            "name": "atomita"
-        }
-    ],
-    "require": {},
-    "autoload": {
+	"name": "atomita/codeigniter-utils",
+	"authors": [
+		{
+			"name": "atomita"
+		}
+	],
+	"require": {},
+	"autoload": {
 		"classmap": ["src/"]
 	}
 }
