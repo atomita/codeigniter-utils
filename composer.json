@@ -5,5 +5,8 @@
             "name": "atomita"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+		"classmap": ["src/"]
+	}
 }
