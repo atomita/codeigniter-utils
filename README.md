@@ -1,2 +1,2 @@
-ci-resource-controller
+CodeIgniter Utils
 ======================
