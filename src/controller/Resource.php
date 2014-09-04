@@ -1,15 +1,18 @@
 <?php
 
+namespae atomita\codeigniter\controller;
+use \MY_Controller;
+
 /**
- * ResourceController
- * 
+ * Resource Controller
+ *
  * リソースコントローラ抽象クラス
- * 
+ *
  * Laravelのリソース定義を参考
  * @see http://laravel4.kore1server.com/docs/controllers#resource-controllers
  * @author atomita
  */
-abstract class ResourceController extends MY_Controller {
+abstract class Resource extends MY_Controller {
 
 	function __construct() {
 		parent::__construct();

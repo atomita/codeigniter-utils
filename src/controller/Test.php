@@ -1,9 +1,12 @@
 <?php
 
+namespae atomita\codeigniter\controller;
+use \MY_Controller;
+
 /**
- * TestController
+ * Test Controller
  */
-class TestController extends MY_Controller {
+class Test extends MY_Controller {
 
 	function __construct() {
 		parent::__construct();
