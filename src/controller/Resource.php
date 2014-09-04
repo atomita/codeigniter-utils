@@ -1,6 +1,6 @@
 <?php
 
-namespae atomita\codeigniter\controller;
+namespace atomita\codeigniter\controller;
 use \MY_Controller;
 
 /**

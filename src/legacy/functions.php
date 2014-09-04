@@ -7,7 +7,7 @@ $definition = ltrim(file_get_contents($file), '<?php');
 
 eval(str_replace(
 	array(
-		'namespae atomita\\codeigniter;',
+		'namespace atomita\\codeigniter;',
 		'{$ds}autoload.php";',
 	),
 	array(

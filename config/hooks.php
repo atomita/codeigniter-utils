@@ -11,5 +11,5 @@ if (!is_array($hook['pre_system'])){
 $hook['pre_system'][] = array(
 	'function'	 => 'atomita\\codeigniter\\autoload',
 	'filename'	 => 'functions.php',
-	'filepath'	 => 'vender/atomita/codeigniter-utils/src/',
+	'filepath'	 => 'vendor/atomita/codeigniter-utils/src/',
 );
